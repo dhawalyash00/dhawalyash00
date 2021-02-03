@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 
+I'm Dhawal....an electronics undergrad at IIIT Ranchi.
+I'm a competitive coder(C++) and a web development enthusiast and also a decent player of Table Tennis.
 
 <!--
 **dhawalyash00/dhawalyash00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,4 +15,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+--
