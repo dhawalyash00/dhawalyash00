@@ -1,6 +1,6 @@
 ### Hi there 
 I'm Dhawal....an electronics undergrad at IIIT Ranchi.
-I'm a competitive coder(C++) and a web development enthusiast and also a decent player of Table Tennis.
+I'm a competitive coder(C++) and a web development enthusiast and also a decent player of Table Tennis.<br />
 ![Dhawal's's github stats](https://github-readme-stats.vercel.app/api?username=dhawalyash00)
 
 <!--
