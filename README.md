@@ -2,6 +2,8 @@
 I'm Dhawal....an electronics undergrad at IIIT Ranchi.
 I'm a competitive coder(C++) and a web development enthusiast and also a decent player of Table Tennis.<br />
 ![Dhawal's's github stats](https://github-readme-stats.vercel.app/api?username=dhawalyash00)
+<br />
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dhawalyash00)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
 <!--
 **dhawalyash00/dhawalyash00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
